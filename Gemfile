@@ -53,7 +53,7 @@ group :development, :test do
   # objects), and support for multiple factories for the same class
   # (user, admin_user, and so on), including factory inheritance.
   # https://github.com/thoughtbot/factory_bot_rails
-  gem 'factory_bot_rails', '4.11.0'
+  gem 'factory_bot_rails', '~> 4.11.0'
 end
 
 group :development do
